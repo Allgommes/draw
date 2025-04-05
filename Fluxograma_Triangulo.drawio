@@ -1,50 +1,50 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.6">
   <diagram name="Página-1" id="1nKJINJ_qhfNHt6Snoal">
-    <mxGraphModel dx="1428" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1828" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#808080)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HhQ_RprlFPPy1cSIbPd8-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HhQ_RprlFPPy1cSIbPd8-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HhQ_RprlFPPy1cSIbPd8-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HhQ_RprlFPPy1cSIbPd8-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YI4tYI6XQApdTaJVo6By-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="530" width="130" height="120" as="geometry" />
+          <mxGeometry x="610" y="410" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YI4tYI6XQApdTaJVo6By-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="615" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YI4tYI6XQApdTaJVo6By-3" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="880" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YI4tYI6XQApdTaJVo6By-4" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="880" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YI4tYI6XQApdTaJVo6By-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.025;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YI4tYI6XQApdTaJVo6By-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="319.5" as="sourcePoint" />
-            <mxPoint x="530" y="319.5" as="targetPoint" />
+            <mxPoint x="730" y="199.5" as="sourcePoint" />
+            <mxPoint x="830" y="199.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YI4tYI6XQApdTaJVo6By-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HhQ_RprlFPPy1cSIbPd8-1" target="HhQ_RprlFPPy1cSIbPd8-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="120" as="sourcePoint" />
-            <mxPoint x="500" y="70" as="targetPoint" />
+            <mxPoint x="750" as="sourcePoint" />
+            <mxPoint x="800" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YI4tYI6XQApdTaJVo6By-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="435" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YI4tYI6XQApdTaJVo6By-10" value="&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;algoritmo &quot;Calculo Media Notas&quot;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;// Declaração das variáveis&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;var&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;nota, soma, media: real&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;i: inteiro&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;inicio&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;soma &amp;lt;- 0&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;// Loop para receber as 5 notas&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;para i de 1 ate 5 faca&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; escreva(&quot;Digite a &quot;, i, &quot;ª nota (entre 1 e 20): &quot;)&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; leia(nota)&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; // Verifica se a nota está dentro do intervalo permitido&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; enquanto (nota &amp;lt; 1) ou (nota &amp;gt; 20) faca&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;escreva(&quot;Nota inválida! Digite uma nota entre 1 e 20: &quot;)&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;leia(nota)&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; fimenquanto&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; soma &amp;lt;- soma + nota&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;fimpara&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;// Calcula a média&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;media &amp;lt;- soma / 5&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;// Exibe a média&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;escreva(&quot;A média das notas é: &quot;, media)&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;// Verifica se o aluno está aprovado ou reprovado&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;se media &amp;gt;= 10 entao&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; escreva(&quot;\nAluno aprovado!&quot;)&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;senao&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; escreva(&quot;\nAluno reprovado!&quot;)&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp;fimse&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 9px;&quot;&gt;fimalgoritmo&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="50" width="290" height="850" as="geometry" />
+          <mxGeometry x="-80" y="-100" width="290" height="850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
